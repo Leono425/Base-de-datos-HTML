@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="esp">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tienda de productos electricos</title>
+</head>
+<body>
+    <h1>Tienda de productos electricos<h1>
+       
+        <h2>En esta tienda encontraras muchos productos electricos<h2>
+
+
+
+
+            <h3>taladro electrico</h3>
+            <img src="https://http2.mlstatic.com/D_NQ_NP_2X_841065-MLA118846209043_102026-F.webp">
+            <h5>https://www.mercadolibre.com.ar/taladro-percutor-blackdecker-hd550a-kit-mechas-puntas-naranja-50/p/MLA80269331?pdp_filters=item_id:MLA4073508840#is_advertising=true&searchVariation=MLA80269331&backend_model=search-backend&be_origin=backend&position=1&search_layout=grid&type=pad&tracking_id=933ed54a-3b80-469b-aa05-145a320b8b7b&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=ZTZhZWM1NWEtM2NjMS00ZGM4LTgyMGUtZTljMzljNDkxYTVj</h6>
+
+
+
+
+            <h3>Freidora De Aire</h3>
+            <img src="https://http2.mlstatic.com/D_NQ_NP_2X_888110-MLA99502623390_112025-F.webp">
+            <h5>https://www.mercadolibre.com.ar/freidora-de-aire-unnic-air-fryer-frei100-con-pantalla-digital-10-litros-con-8-programas-preestablecidos-cocina-saludable-sin-aceite-1700-w-ideal-para-hogar-oficina-color-negro/p/MLA55516866?pdp_filters=item_id:MLA1531346363#is_advertising=true&searchVariation=MLA55516866&backend_model=search-backend&be_origin=backend&position=1&search_layout=grid&type=pad&tracking_id=3f7dd78a-032b-40d1-b026-826e7802c5d9&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=MmYxOGIzMTctMzgyZS00ZGQyLTgyNjEtNzQxZTNmZTJlNjM4https://http2.mlstatic.com/D_NQ_NP_2X_888110-MLA99502623390_112025-F.webp</h6>
+
+
+           
+            <h3>Maquina Arcade de Sonic</h3>
+            <img src="https://http2.mlstatic.com/D_NQ_NP_2X_640099-CBT107601513715_022026-F.webp">
+            <h5>https://www.mercadolibre.com.ar/juego-electronico-my-arcade-sonic-mighty-player-35-screen/p/MLA2068557551</h6>
+
+
+
+
+            <h3>Nintendo switch 2 Edición Especial de zelda</h3>
+            <img src="https://culturageek.com.ar/wp-content/uploads/2026/09/Nintendo-Switch-2-Zelda-Edition.webp">
+            <h5>https://culturageek.com.ar/switch-2-edicion-zelda-precio/</h6>
+           
+
+            <h3>Licuadora</h3>
+            <img src=https://cemacogtb2b.vtexassets.com/arquivos/ids/314748-800-800?v=638493658654870000&width=800&height=800&aspect=true”">
+            <h5>https://empresas.cemaco.com/licuadora-cromada-oster-1048486/p</h5>
+
+            <h3>Secadora</h3>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAyQ6VxI115dZBuhSMncwzx5jxUtmUkGMH8KnG3TUdug&s=10">
+            <h5>https://www.remingtonlatam.com/ar/producto/mujer/cuidado-del-cabello/secadores/secador-remington-silk-2/</h5> 
+            
+            <h3>Multímetro Digital</h3>
+<img src="https://http2.mlstatic.com/D_NQ_NP_959913-MLA100012304783_122025-O.jpg" alt="Multímetro digital" width="250">
+<h5>
+    <a href="https://www.mercadolibre.com.ar/p/MLA66390535?matt_tool=89488245&pdp_filters=item_id:MLA3035082336&ua=ohm9c5K33WE0eIFRjQavrtVk6F6VeMoR_mGP3CPe-YBFZ16j#origin=share&sid=share&wid=MLA3035082336&action=copy" target="_blank">
+        Ver producto en Mercado Libre
+    </a>
+</h5>
+
+
+
+
+<h3>Soldador de Estaño Eléctrico</h3>
+<img src="https://http2.mlstatic.com/D_NQ_NP_924507-MLA107317761282_032026-O.jpg" alt="Soldador de estaño eléctrico" width="250">
+<h5>
+
+
+
+
+    <a href="https://www.mercadolibre.com.ar/soldador-de-estano-70w-total-electrico-tipo-lapiz-profesional/p/MLA64967653" target="_blank">
+        Ver producto en Mercado Libre
+    </a>
+</h5>
+
+</body>
+</html>
